@@ -66,5 +66,3 @@ Currently working at **Masader Aljazera**, developing high-performance backend s
 
 ---
 
-> 💡 Place this file in a repository named exactly as your GitHub username so it appears automatically on your profile.  
-> 📌 You can edit any section easily (add images, certifications, or new projects).
