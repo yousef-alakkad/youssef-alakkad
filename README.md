@@ -1,43 +1,43 @@
-# 👋 مرحباً، أنا يوسف العقاد | Youssef Alakkad  
+# 👋 Hi there, I'm Youssef Alakkad  
 
-🎯 **Back-End Web Developer** متخصص في بناء تطبيقات ويب آمنة، قابلة للتوسع، مع RESTful APIs وقواعد بيانات محسّنة.  
-أعمل حاليًا في **Masader Aljazera** وأبني حلول Back-End عالية الأداء باستخدام **Laravel** و **PHP** و **MySQL**.
+🎯 **Back-End Web Developer** specializing in building secure, scalable web applications with RESTful APIs and optimized databases.  
+Currently working at **Masader Aljazera**, developing high-performance backend solutions using **Laravel**, **PHP**, and **MySQL**.
 
 ---
 
-## 💼 الخبرات البارزة | Professional Experience  
+## 💼 Professional Experience  
 
 ### Masader Aljazera (10/2022 – Present)
-- تطوير وصيانة المنطق الخلفي للتطبيقات لضمان الأداء العالي والاستجابة السريعة.
-- إدارة قواعد البيانات وتحسين الأداء والنزاهة والأمان.
-- تنفيذ RESTful APIs وخدمات ويب لتعزيز وظائف التطبيقات.
-- تحسين الاستعلامات مما أدى إلى تقليل زمن الاستجابة بنسبة 40%.
+- Developed and maintained server-side logic ensuring high performance and responsiveness.
+- Managed database administration with a focus on performance, data integrity, and security.
+- Implemented RESTful APIs and web services to enhance application functionality.
+- Optimized database queries, reducing response time by 40%.
 
 ### Shalla Group
-- تصميم وتنفيذ نظام محفظة إلكترونية آمن مدمج مع منصة التجارة الإلكترونية.
-- تطوير APIs لإدارة البيانات المالية والتحقق من الهوية عبر Nafath والتوقيع الإلكتروني.
-- أتمتة عملية إدخال بيانات العملاء والتحقق منها إلكترونيًا.
+- Designed and implemented a secure digital wallet integrated into the company’s e-commerce platform.
+- Developed APIs to manage customer financial data and identity verification through Nafath.
+- Automated customer onboarding by combining API-driven data entry, identity verification, and digital signatures.
 
-### مشاريع Event Platforms
-- **ACWA Power Event Registration**: نظام تسجيل فعاليات مع توليد QR تلقائي وتأكيد بالبريد الإلكتروني.
-- **Maximus Event Registration**: Backend مخصص في Laravel للتسجيل والتحقق ودمج APIs.
-- **Suadi Dates Event Survey**: منصة استطلاع رأي تدعم التحليلات اللحظية والتصدير إلى Excel.
+### Event Platforms
+- **ACWA Power Event Registration**: Secure and responsive event registration system with automated emails and QR code generation.
+- **Maximus Event Registration**: Custom Laravel backend for registration, validation, and API integration.
+- **Suadi Dates Event Survey**: Web-based survey platform with real-time analytics and Excel export.
 
 ### Masader Academy
-- نظام توثيق كامل (Login, Logout, Email Verification).
-- إدارة أدوار المستخدمين (Admin, Trainer, Student).
-- إضافة دورات، محتوى، ومتطلبات مع اختبارات لكل دورة.
+- Complete authentication system (login, logout, email verification).
+- Role management (Admin, Trainer, Student).
+- Add courses, content, and requirements with dedicated quizzes for evaluation.
 
 ---
 
-## 🌐 المشاريع الحية | Live Projects  
+## 🌐 Live Projects  
 - [ACWA Power Event Registration](https://acwapowerevent.eventregister.app/registration)  
 - [Maximus Event Registration](https://maximus.eventregister.app/registration)  
 - [Suadi Dates Event Survey](https://suadidates.eventregister.app/survey)  
 
 ---
 
-## 🛠️ المهارات | Skills  
+## 🛠️ Skills  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
@@ -51,28 +51,20 @@
 
 ---
 
-## 🏆 الشهادات | Certifications  
+## 🏆 Certifications  
 - 🎓 **Diploma in Computer Technology (Software Specialization)** – Damascus University (2020)
 - 💻 **RESTful APIs & Database Optimization** – Internal Projects at Masader Aljazera
 - 🚀 **Advanced Laravel Practices** – Self-paced and on-the-job learning  
 
 ---
 
-## 📄 تحميل السيرة الذاتية | Download My Resume  
-يمكنك تحميل نسخة حديثة من سيرتي الذاتية عبر الرابط أدناه:  
+=
 
-[📥 Download Resume](ضع هنا رابط الـPDF على Google Drive أو GitHub أو Dropbox)
-
-> ✨ **نصيحة:** ارفع ملف الـPDF على نفس المستودع أو على Google Drive واجعل الرابط عام (Public) ثم ضع الرابط هنا مكان النص بالأعلى.
-
----
-
-## 📫 تواصل معي | Contact Me  
+## 📫 Contact Me  
 - 📧 Email: [youssef99.business@gmail.com](mailto:youssef99.business@gmail.com)  
-- 🌐 LinkedIn: [ضع رابط حسابك هنا]  
-- 💻 GitHub: [github.com/اسم_المستخدم](https://github.com/اسم_المستخدم)  
+- 💻 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
 
 ---
 
-> 💡 ضع هذا الملف في مستودع بنفس اسم المستخدم في GitHub حتى يظهر تلقائيًا كبروفايلك الشخصي.  
-> 📌 يمكنك تعديل أي قسم بسهولة (إضافة صور أو شهادات أو مشاريع جديدة).
+> 💡 Place this file in a repository named exactly as your GitHub username so it appears automatically on your profile.  
+> 📌 You can edit any section easily (add images, certifications, or new projects).
